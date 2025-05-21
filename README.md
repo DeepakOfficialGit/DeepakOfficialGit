@@ -1,4 +1,4 @@
-![logo]("D:\Download\Deepak\Orange Modern Technology LinkedIn Banner.jpg")
+![Logo]("https://github.com/DeepakOfficialGit/DeepakOfficialGit/blob/main/Orange%20Modern%20Technology%20LinkedIn%20Banner.jpg")
 
 <h1 align="center">Hi 👋, I'm Deepak Jagarwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
