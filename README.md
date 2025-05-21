@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Deepak Jagarwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align="right" alt="coding" width="400px" src="https://imgs.search.brave.com/qnUYpZW_wJMQDLA4X9MetoLm36RZBJKxN4VwoBv33gI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29kaW5n/LWdpcmwtYW5pbWF0/aW9uLWZlN3Q0Z2Vq/dXJtdG9mOHYuZ2lm.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakofficialgit&label=Profile%20views&color=0e75b6&style=flat" alt="deepakofficialgit" /> </p>
 
 - 🔭 I’m currently working on **Banking System in Java**
